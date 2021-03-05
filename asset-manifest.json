@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Dad-Jokes-App/static/css/main.eead6361.chunk.css",
+    "main.js": "/React-Dad-Jokes-App/static/js/main.559a6158.chunk.js",
+    "main.js.map": "/React-Dad-Jokes-App/static/js/main.559a6158.chunk.js.map",
+    "runtime-main.js": "/React-Dad-Jokes-App/static/js/runtime-main.a68d65d3.js",
+    "runtime-main.js.map": "/React-Dad-Jokes-App/static/js/runtime-main.a68d65d3.js.map",
+    "static/js/2.d0cbfa66.chunk.js": "/React-Dad-Jokes-App/static/js/2.d0cbfa66.chunk.js",
+    "static/js/2.d0cbfa66.chunk.js.map": "/React-Dad-Jokes-App/static/js/2.d0cbfa66.chunk.js.map",
+    "static/js/3.9d9e5256.chunk.js": "/React-Dad-Jokes-App/static/js/3.9d9e5256.chunk.js",
+    "static/js/3.9d9e5256.chunk.js.map": "/React-Dad-Jokes-App/static/js/3.9d9e5256.chunk.js.map",
+    "index.html": "/React-Dad-Jokes-App/index.html",
+    "static/css/main.eead6361.chunk.css.map": "/React-Dad-Jokes-App/static/css/main.eead6361.chunk.css.map",
+    "static/js/2.d0cbfa66.chunk.js.LICENSE.txt": "/React-Dad-Jokes-App/static/js/2.d0cbfa66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a68d65d3.js",
+    "static/js/2.d0cbfa66.chunk.js",
+    "static/css/main.eead6361.chunk.css",
+    "static/js/main.559a6158.chunk.js"
+  ]
+}
